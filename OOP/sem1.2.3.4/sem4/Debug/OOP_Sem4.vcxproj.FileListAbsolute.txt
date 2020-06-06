@@ -1,0 +1,6 @@
+C:\Users\argun\OneDrive\Рабочий стол\OOP_Sem4\Debug\OOP_Sem4.exe
+C:\Users\argun\OneDrive\Рабочий стол\OOP_Sem4\Debug\OOP_Sem4.pdb
+C:\Users\argun\OneDrive\Рабочий стол\Прога\OOP_Sem4\Debug\OOP_Sem4.exe
+C:\Users\argun\OneDrive\Рабочий стол\Прога\OOP_Sem4\Debug\OOP_Sem4.pdb
+C:\Users\argun\OneDrive\Рабочий стол\Прога\sem4\Debug\OOP_Sem4.exe
+C:\Users\argun\OneDrive\Рабочий стол\Прога\sem4\Debug\OOP_Sem4.pdb
