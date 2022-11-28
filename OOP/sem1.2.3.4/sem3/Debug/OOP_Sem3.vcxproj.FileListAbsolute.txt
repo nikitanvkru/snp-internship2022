@@ -1,6 +1,0 @@
-C:\Users\argun\OneDrive\Рабочий стол\OOP_Sem3\Debug\OOP_Sem3.exe
-C:\Users\argun\OneDrive\Рабочий стол\OOP_Sem3\Debug\OOP_Sem3.pdb
-C:\Users\argun\OneDrive\Рабочий стол\Прога\OOP_Sem3\Debug\OOP_Sem3.exe
-C:\Users\argun\OneDrive\Рабочий стол\Прога\OOP_Sem3\Debug\OOP_Sem3.pdb
-C:\Users\argun\OneDrive\Рабочий стол\Прога\sem3\Debug\OOP_Sem3.exe
-C:\Users\argun\OneDrive\Рабочий стол\Прога\sem3\Debug\OOP_Sem3.pdb
